@@ -10,3 +10,5 @@ hermione, antonia C
 luna, isa
 ![salvé_de_voldemort](https://user-images.githubusercontent.com/93101241/160850440-0a7caec7-8c1a-42b6-a174-639a5841d107.jpg)
 harry, anto Z
+![salvé_de_voldemort (1)](https://user-images.githubusercontent.com/93101241/160850985-edc5f187-33ba-4e66-af19-8356c5c56d4a.jpg)
+anto, anto Z
